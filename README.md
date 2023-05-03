@@ -86,6 +86,7 @@ From my analysis I come to the following conclusions;
 * **Boats** are the most expensive AirBnB to rent probably because there are yatchs, followed by **Condos**. But **House & Apartments** generates the most revenue.
 * The area with zipcode **98134: SoDo / Industrial District** is the most expensive area with average AirBnB at **$192**, followed by **98199: Magnolia** at **$178.9**.
 * We can see a steady increase in revenue over the months, but it peaks at the end of the year, and I would guess its because of the holidays when people tend to travel more.
+NOTE::: I excluded the 2017 records of the dataset from my analysis as this project focuse on just 2016.
 ___
 ### RECCOMMENDATIONS
 Here are my reccommendations;
